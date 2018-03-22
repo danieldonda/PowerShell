@@ -4,6 +4,13 @@ Em 2013 eu escrevi um ebook dce powershell para IT pro. Hoje eu estou portando o
 
 > Um guia do Windows PowerShell desenvolvido especificamente para profissionais de infraestrutura
 
-#Wiki
+# Wiki
 Versão do ebook de PowerShell 
+
 https://github.com/danieldonda/PowerShell/wiki
+
+
+# Scripts
+Todos os scripts utilizados ou criados a partir do Wiki 
+
+***
