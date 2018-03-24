@@ -1,8 +1,10 @@
-# PowerShell 
+# :cool: PowerShell 
 
 Em 2013 eu escrevi um ebook sobre powershell para IT pro. Hoje eu estou portando o ebook que estava em PDF para Git. Assim podemos ter além da colaboração um repositório bem moderno e fácil de trabalhar.
 
-> Um guia do Windows PowerShell desenvolvido especificamente para profissionais de infraestrutura
+> Um guia do Windows PowerShell desenvolvido especificamente para profissionais de infraestrutura.
+
+Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a compartilhar esse material.
 
 # :blue_book: WIKI
 Versão do ebook de PowerShell 
