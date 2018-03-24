@@ -8,7 +8,7 @@ Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a comp
 
 # WIKI Menu
 
-* [PowerShell Wiki](https://github.com/danieldonda/PowerShell/wiki)
+* **[PowerShell Wiki](https://github.com/danieldonda/PowerShell/wiki)**
   * [Comece a usar o PS](https://github.com/danieldonda/PowerShell/wiki/Comece-a-usar-o-PowerShell)
   * [O que é PowerShell](https://github.com/danieldonda/PowerShell/wiki/O-que-%C3%A9-PowerShell--%3F)
 * [Command-Lets](https://github.com/danieldonda/PowerShell/wiki/Command-Lets)
