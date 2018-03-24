@@ -6,12 +6,7 @@ Em 2013 eu escrevi um ebook sobre powershell para IT pro. Hoje eu estou portando
 
 Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a compartilhar esse material.
 
-# WIKI
-Versão do ebook de PowerShell 
-
-https://github.com/danieldonda/PowerShell/wiki
-
-# Menu
+# WIKI Menu
 
 * [PowerShell Wiki](https://github.com/danieldonda/PowerShell/wiki)
   * [Comece a usar o PS](https://github.com/danieldonda/PowerShell/wiki/Comece-a-usar-o-PowerShell)
@@ -49,4 +44,6 @@ https://github.com/danieldonda/PowerShell/wiki
 # Scripts
 [Scripts utilizados ou criados a partir do Wiki](https://github.com/danieldonda/PowerShell/tree/master/Exemplos)
 
-***
+
+Versão do ebook de PowerShell 
+https://github.com/danieldonda/PowerShell/wiki
