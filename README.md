@@ -1,4 +1,4 @@
-# :cool: PowerShell 
+# PowerShell 
 
 Em 2013 eu escrevi um ebook sobre powershell para IT pro. Hoje eu estou portando o ebook que estava em PDF para Git. Assim podemos ter além da colaboração um repositório bem moderno e fácil de trabalhar.
 
@@ -6,12 +6,12 @@ Em 2013 eu escrevi um ebook sobre powershell para IT pro. Hoje eu estou portando
 
 Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a compartilhar esse material.
 
-# :blue_book: WIKI
+# WIKI
 Versão do ebook de PowerShell 
 
 https://github.com/danieldonda/PowerShell/wiki
 
-# :page_facing_up: Menu
+# Menu
 
 * [PowerShell Wiki](https://github.com/danieldonda/PowerShell/wiki)
   * [Comece a usar o PS](https://github.com/danieldonda/PowerShell/wiki/Comece-a-usar-o-PowerShell)
@@ -46,7 +46,7 @@ https://github.com/danieldonda/PowerShell/wiki
 * [Gerenciando TCP IP](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-TCP-IP)
 * [Gerenciando o Hyper V](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-o-Hyper-V)
 
-# :ballot_box_with_check: Scripts
+# Scripts
 Publicando todos os scripts utilizados ou criados a partir do Wiki 
 
 ***
