@@ -45,5 +45,5 @@ Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a comp
 [Scripts utilizados ou criados a partir do Wiki](https://github.com/danieldonda/PowerShell/tree/master/Exemplos)
 
 
-Versão do ebook de PowerShell 
-https://github.com/danieldonda/PowerShell/wiki
+### Ajude a compartilhar:
+Versão do ebook de PowerShell - https://danieldonda.github.io/PowerShell 
