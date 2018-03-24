@@ -47,6 +47,6 @@ https://github.com/danieldonda/PowerShell/wiki
 * [Gerenciando o Hyper V](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-o-Hyper-V)
 
 # Scripts
-Publicando todos os scripts utilizados ou criados a partir do Wiki 
+[Scripts utilizados ou criados a partir do Wiki](https://github.com/danieldonda/PowerShell/tree/master/Exemplos)
 
 ***
