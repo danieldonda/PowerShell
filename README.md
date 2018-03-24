@@ -29,7 +29,20 @@ https://github.com/danieldonda/PowerShell/wiki
   * [Arrays](https://github.com/danieldonda/PowerShell/wiki/Arrays)
   * [Hash Table](https://github.com/danieldonda/PowerShell/wiki/Hash-Table)
   * [PSDefaulParametersValues](https://github.com/danieldonda/PowerShell/wiki/PSDefaulParametersValues)
-  *[Operadores Condicionais e Lógicos](https://github.com/danieldonda/PowerShell/wiki/Operadores-Condicionais-e-L%C3%B3gicos)
+  * [Operadores Condicionais e Lógicos](https://github.com/danieldonda/PowerShell/wiki/Operadores-Condicionais-e-L%C3%B3gicos)
+  * [IF...ELSE](https://github.com/danieldonda/PowerShell/wiki/IF...ELSE)
+  * [FOR…FOREACHE…WHILE](https://github.com/danieldonda/PowerShell/wiki/FOR%E2%80%A6FOREACHE%E2%80%A6WHILE)
+  * [Criando Funções](https://github.com/danieldonda/PowerShell/wiki/Criando-Fun%C3%A7%C3%B5es)
+  * [Workflows](https://github.com/danieldonda/PowerShell/wiki/Workflows)
+  * [Write Progress](https://github.com/danieldonda/PowerShell/wiki/Write-Progress)
+* [Jobs e Scheduled Jobs](https://github.com/danieldonda/PowerShell/wiki/Jobs-e-Scheduled-Jobs)
+* **[Executando o PowerShell remotamente](https://github.com/danieldonda/PowerShell/wiki/Executando-o-PowerShell-remotamente)**
+  * [Habilitando gerenciamento Remoto](https://github.com/danieldonda/PowerShell/wiki/Habilitando-gerenciamento-Remoto)
+  * [Sessão Remota](https://github.com/danieldonda/PowerShell/wiki/Sess%C3%A3o-Remota)
+  * [PowerShell WEB Access (PSWA)](https://github.com/danieldonda/PowerShell/wiki/PowerShell-WEB-Access-(PSWA))
+* [Gerenciando Servidores](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-Servidores)
+* [Gerenciando TCP IP](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-TCP-IP)
+* [Gerenciando o Hyper V](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-o-Hyper-V)
 
 # Scripts
 Todos os scripts utilizados ou criados a partir do Wiki 
