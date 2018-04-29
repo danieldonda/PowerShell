@@ -41,9 +41,9 @@ Adicione no seu bookmark https://danieldonda.github.io/PowerShell e ajude a comp
 * [Gerenciando TCP IP](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-TCP-IP)
 * [Gerenciando o Hyper V](https://github.com/danieldonda/PowerShell/wiki/Gerenciando-o-Hyper-V)
 
-# Scripts
-[Scripts utilizados ou criados a partir do Wiki](https://github.com/danieldonda/PowerShell/tree/master/Exemplos)
-
+# Scripts e Material de apoio
+* [Scripts utilizados ou criados a partir do Wiki](https://github.com/danieldonda/PowerShell/tree/master/Exemplos)
+* [Downloads](https://github.com/danieldonda/PowerShell/wiki/Download)
 
 ### Ajude a compartilhar:
 Versão do ebook de PowerShell - https://danieldonda.github.io/PowerShell 
